@@ -1,4 +1,3 @@
-Here is a comprehensive **README.md** for your project, written in English and based on the provided source code.
 
 -----
 
