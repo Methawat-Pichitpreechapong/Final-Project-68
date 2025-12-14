@@ -62,5 +62,3 @@ pip install requests websocket-client matplotlib certifi
   * **Responsiveness:** Utilizes Python's `threading` and `tkinter.after` to ensure the UI remains smooth and responsive while handling multiple high-frequency data streams.
 
 -----
-
-Would you like me to help you add more coins to the `PANEL_ORDER` or implement a feature to change the chart timeframe (e.g., from 1H to 15M)?
